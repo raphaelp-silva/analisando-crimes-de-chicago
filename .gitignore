@@ -1,0 +1,26 @@
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Configurações do usuário
+.bash_history
+.bash_profile
+.lesshst
+.viminfo
+.zshrc
+.gitconfig
+
+# Logs e caches
+*.log
+*.lock
+*.db
+*.patch
+/.cache/
+/__pycache__/
+
+# Ambientes virtuais
+env/
+.venv/
+
+# Arquivos do VS Code
+.vscode/
