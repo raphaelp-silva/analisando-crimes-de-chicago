@@ -1,7 +1,7 @@
 # Análise de Dados de Crimes em Chicago
 
 ## Descrição do Projeto
-Este projeto tem como objetivo realizar a análise exploratória e gerar insights a partir de dados de crimes na cidade de Chicago. O projeto utiliza técnicas de análise de dados e bibliotecas como Pandas, NumPy e Matplotlib/Seaborn para visualizar e entender padrões de crimes.
+Este projeto tem como objetivo realizar a análise exploratória e gerar insights a partir de dados de crimes na cidade de Chicago (requisitados via API oficial). O projeto utiliza técnicas de análise de dados e bibliotecas como Pandas, NumPy e Matplotlib/Seaborn para visualizar e entender padrões de crimes.
 
 
 # Status do Projeto
